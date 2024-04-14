@@ -1,0 +1,52 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product.png",
+      "title": "?",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore."
+    },
+    {
+      "id": "2",
+      "src": "./img/product.png",
+      "title": "?",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore."
+    },
+    {
+      "id": "3",
+      "src": "./img/product.png",
+      "title": "?",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore."
+    },
+    {
+      "id": "4",
+      "src": "./img/product.png",
+      "title": "?",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore."
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/product.png",
+      "title": "?",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/product.png",
+      "title": "?",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/product.png",
+      "title": "?",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore.",
+      "link": "View In Github"
+    }
+  ]
+}
