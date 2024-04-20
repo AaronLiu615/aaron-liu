@@ -12,9 +12,9 @@ export default function HeroSection() {
             Developer
           </h1>
           <p className="hero--section--description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Current CS Student @ CUNY Hunter College
             <br />
-            Unde doloribus placeat dolore.
+            Embarking on the journey of life-long learning
           </p>
         </div>
         <Link

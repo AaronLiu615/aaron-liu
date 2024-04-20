@@ -33,27 +33,27 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/product.png",
+      "src": "./img/herosection.png",
       "title": "Personal Website",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore.",
+      "description": "My personal portfolio detailing my current projects and experience, built with react-app!",
       "view": "View In Github",
       "link": "https://github.com/AaronLiu615/aaron-liu"
     },
     {
       "id": "2",
-      "src": "./img/product.png",
-      "title": "?",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore.",
+      "src": "./logo512.png",
+      "title": "ConsumeToSave",
+      "description": "Full Stack Web App used to promote saving. Currently in progress in Notion, plans on building using MERN stack.",
       "view": "View In Github",
-      "link": "View In Github"
+      "link": "https://github.com/AaronLiu615/ConsumeToSave"
     },
     {
       "id": "3",
-      "src": "./img/product.png",
+      "src": "./logo512.png",
       "title": "?",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore.",
+      "description": "To be Continued",
       "view": "View In Github",
-      "link": "View In Github"
+      "link": ""
     }
   ]
 }
