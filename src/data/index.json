@@ -3,26 +3,30 @@
     {
       "id": "1",
       "src": "./img/product.png",
-      "title": "?",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore."
+      "title": "to be continued",
+      "jobTitle": "to be continued",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien nec sagittis. Urna cursus eget nunc scelerisque. At volutpat diam ut venenatis tellus in. Vivamus at augue eget arcu dictum varius duis at consectetur. Erat imperdiet sed euismod nisi porta lorem. Elit sed vulputate mi sit amet mauris."
     },
-    {
+    { 
       "id": "2",
-      "src": "./img/product.png",
-      "title": "?",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore."
+      "src": "./img/cornellblockchain.jpeg",
+      "title": "Cornell Blockchain",
+      "jobTitle": "Intern",
+      "description": "Engaged in comprehensive Web3 and Blockchain Technology workshops to understand emerging technologies. Collaborated with influential figures like NBA Nets owner Clara Wu and NYC Mayor Eric Adams, sharing insights gained from the workshops with group members."
     },
     {
       "id": "3",
-      "src": "./img/product.png",
-      "title": "?",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore."
+      "src": "./img/bkieclogo.webp",
+      "title": "BK INTERNATIONAL EDUCATION CONSULTANCY",
+      "jobTitle": "Intern",
+      "description": "Revitalized social media engagement by 20%+, crafted compelling infographics, enhanced learning through video editing, expanded network with 30+ experts, optimized website speed by over 30% using HTML and CSS, and improved mobile app UX using HTML CSS and JS."
     },
     {
       "id": "4",
-      "src": "./img/product.png",
-      "title": "?",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore."
+      "src": "./img/uproselogo.png",
+      "title": "UPROSE",
+      "jobTitle": "Climate Justice Intern",
+      "description": "Researched global climate and social issues, organized town hall meetings on solar power with 60 RSVPs, executed strategic phone banking with 1209 calls, and mobilized public support through rallies and flyer distributions."
     }
   ],
 
@@ -30,15 +34,17 @@
     {
       "id": "1",
       "src": "./img/product.png",
-      "title": "?",
+      "title": "Personal Website",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore.",
-      "link": "View In Github"
+      "view": "View In Github",
+      "link": "https://github.com/AaronLiu615/aaron-liu"
     },
     {
       "id": "2",
       "src": "./img/product.png",
       "title": "?",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore.",
+      "view": "View In Github",
       "link": "View In Github"
     },
     {
@@ -46,6 +52,7 @@
       "src": "./img/product.png",
       "title": "?",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde doloribus placeat dolore.",
+      "view": "View In Github",
       "link": "View In Github"
     }
   ]

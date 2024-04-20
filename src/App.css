@@ -18,14 +18,9 @@ p {
   margin: 0;
 }
 
-img {
-  height: 40px;
-  fill: none;
-}
-
 :root {
   --primary: #2C5F2D;
-  --heading-color: #97BC62;
+  --heading-color: #0a80a3;
   --bg-shade: #8AAAE5;
   --github: #e62872;
   --darkblue: #1c1e53;
@@ -143,8 +138,8 @@ h3 {
 
 /* Section Title */
 /* Skills & About me */
-.section-title {
-  color: var(--heading-color);
+.section--title {
+  color: var(--black);
   font-size: 21px;
   text-align: center;
   font-style: normal;
@@ -155,7 +150,7 @@ h3 {
 }
 /* Portfolio and Contact me */
 .sub--title {
-  color: var(--heading-color);
+  color: var(--black);
   font-size: 16px;
   font-weight: 600;
   line-height: 24px;
@@ -187,6 +182,12 @@ h3 {
 }
 
 /* Navbar Content */
+
+.logo {
+  height: 40px;
+  fill: none;
+}
+
 .navbar--content {
   color: var(--darkblue);
   font-size: 16px;
@@ -229,7 +230,7 @@ h3 {
   margin-top: 21.333px;
 }
 
-.hero--section-title {
+.hero--section--title {
   color: var(--heading-color);
   font-size: 74.66px;
   font-weight: 700;
@@ -286,7 +287,7 @@ h3 {
   flex: 1 0 0;
   border-radius: 10.6px;
   background-color: var(--bg-shade);
-  min-height: 250px;
+  min-height: 550px;
 }
 
 .skills--section--card:hover {
@@ -306,6 +307,13 @@ h3 {
   background: #fff;
   box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.1);
 }
+
+.skills--section-img img{
+  height: 50px;
+  width: 50px;
+  fill: none;
+}
+
 .skills--section--card--content {
   display: flex;
   flex-direction: column;
@@ -373,8 +381,10 @@ h3 {
     border-radius: 8px;
     width: 100%;
   }
-  .portfolio--section--img > img {
+
+  .portfolio--section--img img {
     width: 100%;
+    height: 100px;
   }
   .portfolio--section--card {
     display: flex;
